@@ -49,5 +49,6 @@ For demonstration purposes, a mock version with anonymized data was used for thi
 
 - **README.md** — Project documentation  
 - **/images/** — Dashboard screenshots  
-- **/presentation/** — PowerPoint summary of key results  
+- **/presentation/** — PowerPoint summary of the project
+- **/DAX_measures.md/** - List of DAX measures created
 
